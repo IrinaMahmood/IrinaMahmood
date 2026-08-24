@@ -1,4 +1,4 @@
-# Hi, I'm Irina 👋
+# Hi, I'm Irina
 
 ### Software Engineering Student @ NUST
 
@@ -24,27 +24,27 @@ Git · GitHub · VS Code · MATLAB · Microsoft Office
 
 ---
 
-## 💻 Featured Projects
+## Featured Projects
 
-### 🔎 C++ Search Engine
+### C++ Search Engine
 
 A search engine project developed in C++, focusing on data structures, algorithms, and efficient search operations.
 
-### 📊 Product Costing System
+### Product Costing System
 
 A web-based application for calculating product costs using raw materials, quantities, labor, electricity, gas, and other production expenses.
 
-### 📈 UpTrack
+### UpTrack
 
 A Python and MySQL-based documentation and tracking system designed to organize and manage project-related information.
 
-### 🅿️ Smart Parking Management System
+### Smart Parking Management System
 
 A hardware-based project designed to improve parking management through automated monitoring and control.
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 * Machine Learning & AI
 * Advanced Data Structures & Algorithms
@@ -53,6 +53,6 @@ A hardware-based project designed to improve parking management through automate
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [GitHub](https://github.com/IrinaMahmood)
